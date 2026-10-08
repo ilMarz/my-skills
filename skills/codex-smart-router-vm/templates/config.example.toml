@@ -1,0 +1,5 @@
+# Esempio opzionale; integrare chiavi mancanti nella tabella esistente.
+# Non sostituire config.toml. Nessun modello globale viene forzato.
+[agents]
+enabled = true
+max_concurrent_threads_per_session = 2
